@@ -1,0 +1,13 @@
+{
+    "name": "qcloudapi/comptest",
+    "description": "this is as test",
+    "type": "library",
+    "license": ";",
+    "authors": [
+        {
+            "name": "cool",
+            "email": "335814617@qq.com"
+        }
+    ],
+    "require": {}
+}
