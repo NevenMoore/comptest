@@ -9,5 +9,7 @@
             "email": "335814617@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+	"guzzlehttp/guzzle": "6.3.0"
+    }
 }
