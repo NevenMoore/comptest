@@ -1,8 +1,8 @@
 {
-    "name": "qcloudapi/comptest",
+    "name": "tencentcloudapi/phpsdk",
     "description": "this is as test",
     "type": "library",
-    "license": ";",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "cool",
